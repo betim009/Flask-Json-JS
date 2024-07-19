@@ -1,0 +1,11 @@
+{
+    "usuarios": [
+        {
+            "cidade": "São Paulo",
+            "email": "admim@admim.com",
+            "nome": "Admim",
+            "telefone": "() xxxx-xxxx",
+            "id": 1
+        }
+    ]
+}
